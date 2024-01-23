@@ -93,8 +93,14 @@ export const ContactUs = () => {
             </Alert>
           </Col>
           <Col lg="5" className="mb-5">
-            <h3 className="color_sec py-4">Ponerse en contacto</h3>
+            <h3 className="color_sec py-4">Ponte en contacto</h3>
             <address>
+            <div className="espacio">
+                  <h6>Cotiza con nostros al whatsapp</h6>
+                  <a href="https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!"
+                    className="whatsapp" target="_blank">
+                    <i className="fa fa-whatsapp whatsapp-icon"></i></a>
+                    </div>
               <strong>Email:</strong>{" "}
               <a href={`mailto:${contactConfig.YOUR_EMAIL}`}>
                 {contactConfig.YOUR_EMAIL}

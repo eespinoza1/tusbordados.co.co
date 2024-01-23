@@ -32,7 +32,7 @@ const introdata = {
         sixth: "Tarifa plana $10 USD",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Del hilo a la pantalla, creamos arte con aguja y código.",
+    description: "Descubre nuestro talento, haz click aqui ↓↓↓",
     your_img_url: me,
 };
 
