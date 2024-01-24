@@ -34,14 +34,14 @@ export const Portfolio = () => {
           })}
 
         </div>
-        <div className="footer-section1">
+        {/* <div className="footer-section1">
     
       <h2>Instalacion de Software</h2>
       <h5>Diseños en Wilcom</h5>
       <h5>Diseños en Corel Draw</h5>
       <h5>Diseños en Opitek</h5>
  
-    </div>
+    </div> */}
 
       </Container>
     </HelmetProvider>
@@ -56,5 +56,8 @@ const FooterSection = () => {
       <h5>Diseños , Precio, Tiempo </h5>
  
     </div>
+
+
+
   );
 };
