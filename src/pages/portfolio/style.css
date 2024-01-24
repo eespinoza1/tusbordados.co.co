@@ -78,3 +78,42 @@
 .po_item .content a:hover {
     text-decoration: none;
 }
+/* Agrega este estilo al final de tu archivo de estilos (style.css) */
+
+.footer-section {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    background-color: var(--primary-color); /* Ajusta el color de fondo según tus necesidades */
+    color: var(--text-color); /* Ajusta el color del texto según tus necesidades */
+    border-radius: 8px;
+    text-align: left;
+  }
+  
+  .footer-section h2 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .footer-section p {
+    margin: 0.5rem 0;
+  }
+  
+  /* Puedes agregar más estilos según tus preferencias */
+  
+  .footer-section1 {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    padding: 2rem;
+    background-color: var(--primary-color); /* Ajusta el color de fondo según tus necesidades */
+    color: var(--text-color); /* Ajusta el color del texto según tus necesidades */
+    border-radius: 8px;
+    text-align: left;
+  }
+  
+  .footer-section1 h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-section1 p {
+    margin: 0.5rem 0;
+  }

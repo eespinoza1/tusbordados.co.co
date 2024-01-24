@@ -20,7 +20,7 @@ export const About = () => {
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
           <Col lg="8">
-            <h1 className="display-4 mb-4">Nosotros</h1>
+            <h1 className="display-4 mb-4">Instalacion y Mantenimiento de Software</h1>
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
@@ -36,7 +36,7 @@ export const About = () => {
         </Row>
         <Row className=" sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Redes de contactos</h3>
+            <h3 className="color_sec py-4">Planes y servicios</h3>
           </Col>
           <Col lg="7">
             <table className="table caption-top">
@@ -55,10 +55,10 @@ export const About = () => {
           </Col>
         </Row>
         <Row className="sec_sp">
-          {/* <Col lg="5">
-            <h3 className="color_sec py-4">Skills</h3>
-          </Col> */}
-          {/* <Col lg="7" className="grid-container">
+          <Col lg="5">
+            <h3 className="color_sec py-4">Instalación de Programas</h3>
+          </Col> 
+           <Col lg="7" className="grid-container">
             {skills.map((skills, i) => {
               return (
                 <div key={i}>
@@ -70,7 +70,7 @@ export const About = () => {
                 </div>
               );
             })}
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </HelmetProvider>

@@ -4,7 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
-import me from '../../assets/logo.jpg'
+
 
 export const Home = () => {
   return (
@@ -54,7 +54,7 @@ export const Home = () => {
                   </Link>
                   <Link to="/about">
                     <div id="button_h" className="ac_btn btn">
-                      Nosotros
+                      Servicios
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>

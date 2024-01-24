@@ -22,14 +22,14 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hola, ¿Que quieres diseñar hoy?, Nuestra Tarifa es de $10 USD",
+    title: "Hola, ¿Que quieres diseñar hoy?, Nuestros precios son desde $7 USD",
     animated: {
         first: "Diseños de alta calidad",
         second: "Te entregamos en menos de 24H",
-        third: "Recibes tu pedido y luego pagas",
+        //third: "Recibes tu pedido y luego pagas",
         fourth: "Miles de entregas desde el 2016",
         fifth: "Instalación del software",
-        sixth: "Tarifa plana $10 USD",
+        sixth: "Precios desde solo $7 USD por diseño",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Descubre nuestro talento, haz click aqui ↓↓↓",
@@ -37,36 +37,36 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "Quienes somos",
-    aboutme: "En TusBordados.com, fusionamos la artesanía del bordado con tecnología punta. Nos destacamos por la calidad y la creatividad, transformando tus ideas en obras maestras visuales. Ofrecemos servicios de diseño personalizado, bordados de alta precisión y la instalación experta de software especializado. Cada hilo cuenta una historia, y en nuestro compromiso con la excelencia, creamos experiencias visuales únicas y duraderas. Únete a nosotros en el arte de convertir visiones en realidad.",
+    title: "Servicios",
+    aboutme: "Disponibles en toda América Latina. Nuestros software está garantizados bajo la proteccion de TusBordados.com en un plazo no mayor a 90 días, salvo pocas excepciones",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "Instalación",
+        where: "Realizamos Instalación por Team View",
+        date: "Actualizado",
     },
     {
-        jobtitle: "Example 2",
-        where: "Micosoft",
-        date: "2022",
+        jobtitle: "Mantenimiento",
+        where: "Cada Actualización se debe realizar mantenimiento",
+        date: "6 meses",
     },
     {
-        jobtitle: "Example 3",
+        jobtitle: "Garantía",
         where: "Meta",
-        date: "2021",
+        date: "90 Días",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Wilcom 4.3-2",
     },
     
     {
-        name: "C",
+        name: "Opitex 2.3 2",
     },
     
     {
-        name: "Java",
+        name: "Corel Draw (Todas las versiones)",
     },
     
     {
@@ -146,11 +146,11 @@ const dataportfolio = [{
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
-    {
-        img: imagen12,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    // {
+    //     img: imagen12,
+    //     description: "The wisdom of life consists in the elimination of non-essentials.",
+    //     link: "#",
+    // },
 ];
 
 const contactConfig = {
