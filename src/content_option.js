@@ -92,32 +92,32 @@ const skills = [{
 
 const dataportfolio = [{
         img: imagen7,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Modelo de diseño Básico personalizado.",
         link: "#",
     },
     {
         img: imagen9,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Modelo de diseño Básico personalizado.",
         link: "#",
     },
     {
         img: imagen5,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Modelo de diseño Intermedio personalizado.",
         link: "#",
     },
     {
         img: imagen6,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Modelo de diseño Intermedio personalizado.",
         link: "#",
     },
     {
         img: imagen1,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Modelo de diseño Pro personalizado.",
         link: "#",
     },
     {
         img: imagen3,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Modelo de diseño Pro personalizado.",
         link: "#",
     },
 
@@ -152,6 +152,68 @@ const dataportfolio = [{
     //     link: "#",
     // },
 ];
+const dataprogramas = [{
+    img: imagen7,
+    description: "wilcom.",
+    link: "#",
+},
+{
+    img: imagen9,
+    description: "corel.",
+    link: "#",
+},
+{
+    img: imagen5,
+    description: "Linux.",
+    link: "#",
+},
+{
+    img: imagen6,
+    description: "Modelo de diseño Intermedio personalizado.",
+    link: "#",
+},
+{
+    img: imagen1,
+    description: "Modelo de diseño Pro personalizado.",
+    link: "#",
+},
+{
+    img: imagen3,
+    description: "Modelo de diseño Pro personalizado.",
+    link: "#",
+},
+
+// {
+//     img: imagen7,
+//     description: "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+// },
+// {
+//     img: imagen8,
+//     description: "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+// },
+// {
+//     img: imagen9,
+//     description: "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+// },
+// {
+//     img: imagen10,
+//     description: "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+// },
+// {
+//     img: imagen11,
+//     description: "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+// },
+// {
+//     img: imagen12,
+//     description: "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+// },
+];
 
 const contactConfig = {
     YOUR_EMAIL: "tusbordados.com.co@gmail.com",
@@ -171,6 +233,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    dataprogramas,
     worktimeline,
     skills,
     introdata,
