@@ -24,15 +24,15 @@ const meta = {
 const introdata = {
     title: "Hola, ¿Que quieres diseñar hoy?, Nuestros precios son desde $7 USD",
     animated: {
-        first: "Diseños de alta calidad",
-        second: "Te entregamos en menos de 24H",
-        //third: "Recibes tu pedido y luego pagas",
+        first: "Programación de bordados" ,
+        second: "Instalación del software, Diseño, Bordados",
+        third: "Envía tu imagen para cotizar",
         fourth: "Miles de entregas desde el 2016",
-        fifth: "Instalación del software",
+        fifth: "Te entregamos en menos de 24H",
         sixth: "Precios desde solo $7 USD por diseño",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Descubre nuestro talento, haz click aqui ↓↓↓",
+    description: "Descubre nuestros servicios, haz click aqui ↓↓↓",
     your_img_url: me,
 };
 
@@ -57,68 +57,36 @@ const worktimeline = [{
     },
 ];
 
-const skills = [{
-        name: "Wilcom 4.3-2",
-    },
-    
-    {
-        name: "Opitex 2.3 2",
-    },
-    
-    {
-        name: "Corel Draw (Todas las versiones)",
-    },
-    
-    {
-        name: "Bash",
-    },
-
-    {
-        name: "Powershell",
-    },
-
-    {
-        name: "Reverse Engineering",
-    },
-
-    {
-        name: "Web-Exploitation",
-    },
-
-    {
-        name: "Network Exploitation",
-    },
-];
 
 const dataportfolio = [{
         img: imagen7,
         description: "Modelo de diseño Básico personalizado.",
-        link: "#",
+        link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen9,
         description: "Modelo de diseño Básico personalizado.",
-        link: "#",
+        link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen5,
         description: "Modelo de diseño Intermedio personalizado.",
-        link: "#",
+        link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen6,
         description: "Modelo de diseño Intermedio personalizado.",
-        link: "#",
+        link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen1,
         description: "Modelo de diseño Pro personalizado.",
-        link: "#",
+        link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen3,
         description: "Modelo de diseño Pro personalizado.",
-        link: "#",
+        link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
 
     // {
@@ -155,32 +123,32 @@ const dataportfolio = [{
 const dataprogramas = [{
     img: imagen7,
     description: "wilcom.",
-    link: "#",
+    link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
     img: imagen9,
     description: "corel.",
-    link: "#",
+    link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
     img: imagen5,
     description: "Linux.",
-    link: "#",
+    link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
     img: imagen6,
     description: "Modelo de diseño Intermedio personalizado.",
-    link: "#",
+    link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
     img: imagen1,
     description: "Modelo de diseño Pro personalizado.",
-    link: "#",
+    link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
     img: imagen3,
     description: "Modelo de diseño Pro personalizado.",
-    link: "#",
+    link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 
 // {
@@ -235,7 +203,7 @@ export {
     dataportfolio,
     dataprogramas,
     worktimeline,
-    skills,
+  
     introdata,
     contactConfig,
     socialprofils,

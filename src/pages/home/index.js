@@ -54,7 +54,7 @@ export const Home = () => {
                   </Link>
                   <Link to="/about">
                     <div id="button_h" className="ac_btn btn">
-                      Servicios
+                     Programas 
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
@@ -69,7 +69,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   <div className="espacio">
-                  <h3>Cotiza con nostros al whatsapp, con tan solo un click!!</h3>
+                  <h3>Chatea con un asesor de <strong>TusBordados</strong></h3>
                   <a href="https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!"
                     className="whatsapp" target="_blank">
                     <i className="fa fa-whatsapp whatsapp-icon"></i></a>

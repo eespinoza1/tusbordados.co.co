@@ -31,7 +31,7 @@ export const About = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>Detalles</a>
+                  <a href={data.link}>Cotiza Aquí</a>
                 </div>
               </div>
             );
