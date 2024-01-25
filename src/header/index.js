@@ -41,10 +41,10 @@ const Headermain = () => {
                     <Link  onClick={handleToggle} to="/portfolio" className="my-3"> Diseños</Link>
                   </li>
                   <li className="menu_item">
-                  <Link onClick={handleToggle} to="/about" className="my-3">Servicios</Link>
+                  <Link onClick={handleToggle} to="/about" className="my-3">Software</Link>
                   </li>
                   <li className="menu_item">
-                  <Link onClick={handleToggle} to="/contact" className="my-3"> Contactanos</Link>
+                  <Link onClick={handleToggle} to="/contact" className="my-3"> Capacitación</Link>
                   </li>
                 </ul>
               </div>
@@ -55,7 +55,7 @@ const Headermain = () => {
             <a href={socialprofils.linkedin}>Facebook</a>
             <a href={socialprofils.github}>Instagram</a>
             </div>
-            <p className="copyright m-0">copyright {logotext}</p>
+            <p className="copyright m-0">copyright 2012{logotext}</p>
           </div>
         </div>
       </header>

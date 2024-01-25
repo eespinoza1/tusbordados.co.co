@@ -1,17 +1,18 @@
 const logotext = "Inicio";
 import me from '.././src/assets/logo.jpg'
 import imagen1 from '.././src/assets/imagen1.jpg'
-import imagen2 from '.././src/assets/imagen2.jpg'
 import imagen3 from '.././src/assets/imagen3.jpg'
-import imagen4 from '.././src/assets/imagen4.jpg'
 import imagen5 from '.././src/assets/imagen5.jpg'
 import imagen6 from '.././src/assets/imagen6.jpg'
 import imagen7 from '.././src/assets/imagen7.jpg'
-import imagen8 from '.././src/assets/imagen8.jpg'
 import imagen9 from '.././src/assets/imagen9.jpg'
-import imagen10 from '.././src/assets/imagen10.jpg'
-import imagen11 from '.././src/assets/imagen11.jpg'
-import imagen12 from '.././src/assets/imagen12.png'
+import imagens1 from '.././src/assets/melco.png'
+import imagens2 from '.././src/assets/PeDesign.jpg'
+import imagens3 from '.././src/assets/wilcom.jpg'
+import imagens4 from '.././src/assets/Wilcom2.jpg'
+import imagens5 from '.././src/assets/wilcom9.jpg'
+import imagens6 from '.././src/assets/dg.jpg'
+
 
 
 
@@ -22,12 +23,12 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hola, ¿Que quieres diseñar hoy?, Nuestros precios son desde $7 USD",
+    title: "Hola, ¿Que quieres diseñar hoy?, cotiza con profesionales del bordado",
     animated: {
-        first: "Programación de bordados" ,
-        second: "Instalación del software, Diseño, Bordados",
-        third: "Envía tu imagen para cotizar",
-        fourth: "Miles de entregas desde el 2016",
+        first: "Programación/Diseño de bordados" ,
+        second: "Instalación del software",
+        third: "Capacitación y Asesoría",
+        fourth: "Paquetes de diseño",
         fifth: "Te entregamos en menos de 24H",
         sixth: "Precios desde solo $7 USD por diseño",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
@@ -60,32 +61,32 @@ const worktimeline = [{
 
 const dataportfolio = [{
         img: imagen7,
-        description: "Modelo de diseño Básico personalizado.",
+        description: "Diseño sencillo o texto. 7$",
         link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen9,
-        description: "Modelo de diseño Básico personalizado.",
+        description: "Diseño sencillo o texto. 7$",
         link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen5,
-        description: "Modelo de diseño Intermedio personalizado.",
+        description: "Diseño regular: 10$",
         link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen6,
-        description: "Modelo de diseño Intermedio personalizado.",
+        description: "Diseño regular: 10$",
         link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen1,
-        description: "Modelo de diseño Pro personalizado.",
+        description: "Diseño complejo. 20$",
         link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
     {
         img: imagen3,
-        description: "Modelo de diseño Pro personalizado.",
+        description: "Diseño complejo. 20$",
         link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
     },
 
@@ -121,33 +122,33 @@ const dataportfolio = [{
     // },
 ];
 const dataprogramas = [{
-    img: imagen7,
-    description: "wilcom.",
+    img: imagens3,
+    description: "Wilcom. EmboideryStudio",
     link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
-    img: imagen9,
-    description: "corel.",
+    img: imagens4,
+    description: "Wilcom. EmboideryStudio",
     link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
-    img: imagen5,
-    description: "Linux.",
+    img: imagens5,
+    description: "Wilcom 9. EmboideryStudio",
     link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
-    img: imagen6,
-    description: "Modelo de diseño Intermedio personalizado.",
+    img: imagens1,
+    description: "DesingShopV9",
     link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
-    img: imagen1,
-    description: "Modelo de diseño Pro personalizado.",
+    img: imagens2,
+    description: "PE Desing 11",
     link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 {
-    img: imagen3,
-    description: "Modelo de diseño Pro personalizado.",
+    img: imagens6,
+    description: "DG. Tajima",
     link: "https://api.whatsapp.com/send?phone=573209285677&text=Hola%20Black%20Beard%20Systems!!",
 },
 

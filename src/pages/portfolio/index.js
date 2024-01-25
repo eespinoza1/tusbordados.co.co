@@ -52,9 +52,10 @@ export const Portfolio = () => {
 const FooterSection = () => {
   return (
     <div className="footer-section">
-     <h2>Información del Producto</h2>
-      <h5>Diseños , Precio, Tiempo </h5>
- 
+     <h2>Información de los diseños Bordados</h2>
+    <h5>Cotizamos el diseño de tu bordado según el nivel de dificultad, entregas en 24 horas</h5>
+   
+
     </div>
 
 

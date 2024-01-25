@@ -55,7 +55,7 @@ export const About = () => {
 const FooterSection = () => {
   return (
     <div className="footer-section">
-      <h5>🚀 Potencia tu creatividad con nuestra instalación de software.<br/> <br/> 💻 Especialistas en diseño gráfico, textil y bordados. ¡Descubre soluciones tecnológicas para elevar tus proyectos!</h5>
+      <h5>🚀  Instala en tu ordenador los programas más populares y completos para diseñar tus logos y bordados, y <strong>con garantía!!</strong></h5>
     </div>
   );
 };
